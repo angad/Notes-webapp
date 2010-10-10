@@ -1,0 +1,14 @@
+Notes application example
+
+Database table : notes
+id (int) - autoincrement
+content (text)
+time (Timestamp)
+
+place the given files in your CodeIgniter install in /system/application/
+
+Edit your base url in /system/application/config/config.php
+Edit your database connection details in /system/application/config/database.php
+
+Angad, 7th Oct 2010
+linuxNUS
