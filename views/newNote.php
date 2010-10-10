@@ -13,7 +13,6 @@
 
 	<?php
 
-	$this->load->helper('form');
 	echo form_open("notes/newNote");
 	echo form_input("content", "");
 	echo form_submit("submit", "Submit");
